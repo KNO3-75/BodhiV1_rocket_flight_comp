@@ -1,0 +1,98 @@
+# =========================
+
+# OS / System Files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# Arduino / Embedded Builds
+
+# =========================
+
+*.ino.hex
+*.ino.eep
+*.elf
+*.map
+
+# Arduino build folders (if using CLI/IDE2)
+
+build/
+*.bin
+
+# =========================
+
+# Temporary / Backup Files
+
+# =========================
+
+*.bak
+*.tmp
+*.autosave
+*.log
+*.old
+
+# EasyEDA / PCB temp exports
+
+*.json.autosave
+*.sch.autosave
+
+# =========================
+
+# IDE Files
+
+# =========================
+
+.vscode/
+.idea/
+*.code-workspace
+
+# =========================
+
+# Python (for analysis)
+
+# =========================
+
+**pycache**/
+*.pyc
+
+# =========================
+
+# Data Files (optional)
+
+# =========================
+
+# Uncomment if your logs get large
+
+# *.csv
+
+# *.xlsx
+
+# =========================
+
+# Compressed / Generated Outputs
+
+# =========================
+
+*.zip
+*.rar
+
+# =========================
+
+# KiCad / EDA (future-proofing)
+
+# =========================
+
+*.kicad_pcb-bak
+*.kicad_sch-bak
+
+# =========================
+
+# Misc
+
+# =========================
+
+*.swp
